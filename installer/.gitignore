@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+build/*.exe
+build/*.dll
+build/*.pdb
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
