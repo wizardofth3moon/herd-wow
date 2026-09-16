@@ -1,6 +1,7 @@
 using System.Drawing.Drawing2D;
 using System.Runtime.InteropServices;
 using System.Text.Json;
+using System.Text.Json.Serialization;
 using SharpCompress.Archives;
 using SharpCompress.Readers;
 
@@ -450,13 +451,19 @@ public class InstallerForm : Form
 
     private class ClientManifestPart
     {
+        [JsonPropertyName("file")]
         public string File { get; set; } = "";
+
+        [JsonPropertyName("sha256")]
         public string? Sha256 { get; set; }
     }
 
     private class ClientManifest
     {
+        [JsonPropertyName("archiveName")]
         public string ArchiveName { get; set; } = "HerdWoW-Client.zip";
+
+        [JsonPropertyName("parts")]
         public List<ClientManifestPart>? Parts { get; set; }
 
         public List<ClientManifestPart> GetParts()
