@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "journal",
+      "name": "Herd Journal",
+      "packageName": "com.herdwow.journal",
+      "color": "#e8b951",
+      "tagline": "Dungeon and raid journal for the Herd MoP server",
+      "description": "Every dungeon, raid and world boss from Classic to Mists of Pandaria: boss abilities with the real numbers for your difficulty, tank / healer / DPS tips, and loot tables with class and slot filters. Search, favorites, and it works offline.",
+      "icon": "icons/journal.png"
+    }
+  ]
+}
