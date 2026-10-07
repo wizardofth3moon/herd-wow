@@ -8,6 +8,16 @@
       "tagline": "Dungeon and raid journal for the Herd MoP server",
       "description": "Every dungeon, raid and world boss from Classic to Mists of Pandaria: boss abilities with the real numbers for your difficulty, tank / healer / DPS tips, and loot tables with class and slot filters. Search, favorites, and it works offline.",
       "icon": "icons/journal.png"
+    },
+    {
+      "id": "wardrobe",
+      "name": "Herd Wardrobe",
+      "packageName": "com.herdwow.wardrobe",
+      "color": "#4fd1a5",
+      "tagline": "Herd's custom looks in 3D on your characters",
+      "description": "Browse every custom look on the Herd server - the monk tier sets in every difficulty and the Herd imports - see them in 3D on your own characters, and track which pieces you have collected.",
+      "needs": "A Herd WoW account",
+      "icon": "icons/wardrobe.png"
     }
   ]
 }
