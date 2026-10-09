@@ -18,6 +18,15 @@
       "description": "Browse every custom look on the Herd server - the monk tier sets in every difficulty and the Herd imports - see them in 3D on your own characters, and track which pieces you have collected.",
       "needs": "A Herd WoW account",
       "icon": "icons/wardrobe.png"
+    },
+    {
+      "id": "pandaria",
+      "name": "Pandaria Codex",
+      "packageName": "com.herdwow.pandaria",
+      "color": "#1f6b4f",
+      "tagline": "The lore of Mists of Pandaria",
+      "description": "A lore encyclopedia for Mists of Pandaria: the zones, peoples, factions and heroes, the August Celestials and the Sha, and the history of the pandaren empire - 92 entries from the Warcraft Wiki. Foldable reading layout, search, and a look built from the game's own mogu-gold art. The lore reads offline.",
+      "icon": "icons/pandaria.png"
     }
   ]
 }
