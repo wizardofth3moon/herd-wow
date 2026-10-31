@@ -27,6 +27,15 @@
       "tagline": "The lore of Mists of Pandaria",
       "description": "A lore encyclopedia for Mists of Pandaria: the zones, peoples, factions and heroes, the August Celestials and the Sha, and the history of the pandaren empire - 92 entries from the Warcraft Wiki. Foldable reading layout, search, and a look built from the game's own mogu-gold art. The lore reads offline.",
       "icon": "icons/pandaria.png"
+    },
+    {
+      "id": "home",
+      "name": "Herd Launcher",
+      "packageName": "com.herdwow.launcher",
+      "color": "#8fa3ff",
+      "tagline": "A home screen made for the Fold 8 Ultra",
+      "description": "Separate layouts for the cover and inner screens that switch the moment you fold, plus a tabletop mode when half-folded. Swipe gestures for the drawer, notifications and quick settings, double-tap to lock, and one search box for apps, app shortcuts, contacts, settings, sums and the web. Colours follow your wallpaper.",
+      "icon": "icons/home.png"
     }
   ]
 }
