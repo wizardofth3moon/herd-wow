@@ -46,6 +46,16 @@
       "description": "Pair new controllers to the TV box and see their batteries, start any PC game, app or retro game on the TV, see what's playing and pause or close it, use the phone as a remote with a keyboard, turn the LG TV on or off and switch it between Herd TV and the Roku, and keep the box healthy: library updates, restarts and status. Works at home and over Tailscale.",
       "needs": "The Herd TV box",
       "icon": "icons/tv.png"
+    },
+    {
+      "id": "ocarina",
+      "name": "Herd Ocarina",
+      "packageName": "com.herdwow.ocarina",
+      "color": "#e8c45a",
+      "tagline": "Tracker, maps and guide for Ocarina of Time",
+      "description": "Live from the game on the PC: every item, upgrade, song, medallion and mask you have, the game's own maps with each Gold Skulltula, Piece of Heart and dungeon chest marked found or missing, where Link stands, and what's left in each area and dungeon. Names, icons and maps come from your own copy of the game. Keeps your last progress when the game is off.",
+      "needs": "Ocarina of Time (NX2navi) on the PC with companion = 1",
+      "icon": "icons/ocarina.png"
     }
   ]
 }
