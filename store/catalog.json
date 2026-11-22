@@ -66,6 +66,11 @@
       "description": "A private calendar kept on the home server instead of Google: a month you can swipe through, the day and what's coming up, all-day and repeating events, reminders that ring on time, and several calendars with their own colours. Set up a work rotation once and the next year of shifts appears. Unfolded, the month fills the whole screen like a tablet. Home Assistant reads the same calendars.",
       "needs": "Sign in with the calendar password",
       "icon": "icons/calendar.png"
+    },
+    {
+      "id": "store",
+      "name": "Merchant",
+      "packageName": "com.herdwow.store"
     }
   ]
 }
