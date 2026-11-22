@@ -56,6 +56,16 @@
       "description": "Live from the game on the PC: every item, upgrade, song, medallion and mask you have, the game's own maps with each Gold Skulltula, Piece of Heart and dungeon chest marked found or missing, where Link stands, and what's left in each area and dungeon. Names, icons and maps come from your own copy of the game. Keeps your last progress when the game is off.",
       "needs": "Ocarina of Time (NX2navi) on the PC with companion = 1",
       "icon": "icons/ocarina.png"
+    },
+    {
+      "id": "calendar",
+      "name": "Herd Calendar",
+      "packageName": "com.herdwow.calendar",
+      "color": "#6ea8ff",
+      "tagline": "Your own calendar, on your home server",
+      "description": "A private calendar kept on the home server instead of Google: a month you can swipe through, the day and what's coming up, all-day and repeating events, reminders that ring on time, and several calendars with their own colours. Unfolded, the month sits on the left page and the day on the right. Home Assistant reads the same calendars.",
+      "needs": "Sign in with the calendar password",
+      "icon": "icons/calendar.png"
     }
   ]
 }
